@@ -1,0 +1,13 @@
+print(""""nicolas\n 
+triana\n
+cedula\n
+1000935822\n
+masculino\n
+cra18abis\n
+313499481\n
+ceet\n
+tps\n
+2500138\n
+5\n
+2023\n
+tecnica""")
